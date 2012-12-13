@@ -78,7 +78,7 @@ unset path_file
 path=(
   ~/bin
   /usr/local/{bin,sbin}
-  /usr/{bin,sbin}i
+  /usr/{bin,sbin}
   /{bin,sbin}
   /usr/local/share/python3
   $path
